@@ -1,2 +1,3 @@
-# developerNotes
-This repo has an info about daily learnings and related notes
+# Developer Notes
+- [Frontend]()
+  - [Mui Custom Theme Setup](./React/Mui-Custom-Theme-Setup.md)
