@@ -2,6 +2,7 @@
 - [Full Stack Developer Roadmap](Full-Stack-Developer-Roadmap.md)
 - [Frontend]()
   - [Mui Custom Theme Setup](./React/Mui-Custom-Theme-Setup.md)
+  - [VSCode MUI MCP Integration](./React/VSCode-MUI-MCP-Integration.md)
 - [Database]()
   - [PostgreSQL](./Database/PostgreSQL.md) 
 - [Android]()
