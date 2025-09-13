@@ -94,5 +94,7 @@ Gives very fast access (**O(1)** on average).
 **📌 Example:** 
 	-	Dictionary: Word → Key, Meaning → Value.	
 	-	Instead of scanning all pages, jump directly.
-	⚡ **Used in:** Password storage, caches, database indexing.
+ 
+⚡ **Used in:** Password storage, caches, database indexing.
 
+---
