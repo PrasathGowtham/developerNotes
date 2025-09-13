@@ -12,3 +12,4 @@
   - [DSA - Sorting](./DSA/Sorting.md)
   - [Time & Space Complexity](./DSA/Time-And-Space-Complexity.md)
   - [Data Structures](./DSA/Data-Structures.md)
+  - [Algorithms](./DSA/Algorithms.md)
