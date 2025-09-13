@@ -90,3 +90,9 @@ Sorting student marks from lowest to highest.
 ## 🔟 Hashing Algorithms
 👉 Use a hash function to map data into fixed-size values.  
 Gives very fast access (**O(1)** on average).
+
+**📌 Example:** 
+	-	Dictionary: Word → Key, Meaning → Value.	
+	-	Instead of scanning all pages, jump directly.
+	⚡ **Used in:** Password storage, caches, database indexing.
+
