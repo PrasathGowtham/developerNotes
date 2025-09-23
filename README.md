@@ -17,3 +17,4 @@
   - [System Design Overview](System-Design/System-Design-Overview.md) 
   - [System Design Foundations](System-Design/System-Design-Foundations.md)
   - [SQL VS NoSQL](System-Design/SQL-VS-NoSQL.md)
+  - [Normalization And DeNormalization](System-Design/Normalization-And-DeNormalization)
