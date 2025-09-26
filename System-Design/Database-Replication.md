@@ -8,7 +8,7 @@ Think of it like a **backup that can also serve requests**.
 
 ---
 
-## 2. Why Use Database Replication?
+## Why Use Database Replication?
 
 ### High availability
 If the primary database goes down, replicas can serve data so the system doesn’t fail.
@@ -26,7 +26,7 @@ Place replicas in different regions for faster access for users worldwide.
 
 ---
 
-## 3. Types of Replication
+## Types of Replication
 
 | Type                        | Description                                        | Pros                        | Cons                          |
 |-----------------------------|----------------------------------------------------|-----------------------------|-------------------------------|
